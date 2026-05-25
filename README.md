@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hello there 👋
 
+I am Aarav, an 18 year old student and developer based in India.
+
+I build products for businesses, and fix problems in their software.
+
+I am currently working on MERN stack, DBMS and system design concepts and Data Structures in C++.
+
+My upcoming project will utilize Machine Learning, which I plan to ship this year.
+- 📫 How to reach me: Visit my LinkedIn profile or email me at ajcreative@tutanota.com
 <!--
 **AJ-creative/AJ-creative** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +18,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
